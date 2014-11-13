@@ -1,7 +1,7 @@
 #!/bin/bash
 #This was created by Mike Weaver github@vpsilo.com
 #This script was built to automatically upload your autokeys to any FTP server you like.
-#You can edit this to upload any file you like, actually. Include attribution though.
+#You can edit this to upload any file you like, actually. Include attribution though..
 
 #Go ahead and fill in the following variables.
 HOST='' #FTP Host
